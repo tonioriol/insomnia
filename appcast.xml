@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Insomnia → Adrenaline Migration</title>
+        <link>https://github.com/tonioriol/adrenaline</link>
+        <description>This feed migrates Insomnia to Adrenaline. After updating, future updates come from the Adrenaline feed.</description>
+        <language>en</language>
+    </channel>
+</rss>
