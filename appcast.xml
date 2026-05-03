@@ -6,16 +6,16 @@
         <description>This feed migrates Insomnia to Adrenaline.</description>
         <language>en</language>
         <item>
-            <title>Migrate to Adrenaline 0.2.2</title>
-            <pubDate>Sun, 03 May 2026 13:40:20 +0000</pubDate>
-            <sparkle:version>0.2.2</sparkle:version>
-            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+            <title>Migrate to Adrenaline 0.3.0</title>
+            <pubDate>Sun, 03 May 2026 17:27:16 +0000</pubDate>
+            <sparkle:version>0.3.0</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<p>Insomnia has been renamed to <strong>Adrenaline</strong>.</p><p>This update installs Adrenaline and removes the old Insomnia app. Future updates will come from the Adrenaline feed automatically.</p>]]></description>
-            <enclosure url="https://github.com/tonioriol/adrenaline/releases/download/v0.2.2-migration/Adrenaline-migration-v0.2.2.zip"
+            <enclosure url="https://github.com/tonioriol/adrenaline/releases/download/v0.3.0-migration/Adrenaline-migration-v0.3.0.zip"
                        type="application/octet-stream"
                        sparkle:installationType="package"
-                       sparkle:edSignature="7cfpK0RTEmWTA45QiFA/NXgd531u1Q3uro3nGmzF+yKuOFLYUB5YzEYXm9sMTCT5xkMkup+7X0S/sm855w+yAw==" length="1285023" />
+                       sparkle:edSignature="03SRXJENdih1e3L4UFSh9hNQ8rp3s814WgTlI6fwdvhrcUqZ8A1Z+6y0j7DYt75epPVeqPiM47113RKKWBJJDg==" length="1285365" />
         </item>
     </channel>
 </rss>
